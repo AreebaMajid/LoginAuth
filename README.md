@@ -5,9 +5,10 @@ The task was to create a **simple login authentication system** using HTML, CSS,
 
 ## 🚀 Live Demo
 
-🔗 [Click here to view the live app](https://your-live-demo-link.netlify.app)  
-*(Replace this with your actual hosted link e.g., Netlify, Vercel, or GitHub Pages)*
+🔗 [Click here to view the live app](https://login-auth-rose.vercel.app/)
 
+## Github Repository:
+https://github.com/AreebaMajid/Login-Authentication/edit/main/README.md
 ## 🧠 Features
 
 - 📝 User Registration Form  
@@ -19,7 +20,7 @@ The task was to create a **simple login authentication system** using HTML, CSS,
 ## 🛠️ Built With
 
 - **HTML5** – Form structure  
-- **CSS3** – Styling and layout  
+- **CSS** – Styling and layout  
 - **JavaScript** – Form validation and session simulation  
 
 ## 🎯 Internship Info
@@ -29,4 +30,3 @@ The task was to create a **simple login authentication system** using HTML, CSS,
 - **Duration:** July 2025 – August 2025  
 - **Task:** Level 2 – Task 4 – Login Authentication
 
-Live Demo URL: https://login-auth-rose.vercel.app/
